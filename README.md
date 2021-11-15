@@ -1,10 +1,11 @@
 ## Pocket-GPK
 This is my Diploma final year project using Java & Firebase integration in Android Studio. its an All in one managerial App for the students and Staffs of Govt. Polytechnic Khamgaon.
 
-##Requirements
-Language: Java,XML
-IDE:Android Studio
-Database: Firebase Realtime Database
+## Requirements
+<strong>Language:</strong> Java,XML<br>
+<strong>IDE:</strong>Android Studio<br>
+<strong>Database:</strong> Firebase Realtime Database<br>
+<strong>
 
 
 
@@ -23,5 +24,5 @@ Database: Firebase Realtime Database
 <img src="https://user-images.githubusercontent.com/47142604/99796449-83e47700-2b53-11eb-861b-896d20ae7eb5.png" width="300"/>
 
 ## Connect with me:  
-<a href="https://www.instagram.com/coding_nightmare/ target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="instagram" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/coding_nightmare/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="instagram" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/mohitpeshwani/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png" alt="linkedin" height="30" width="30" /></a>&nbsp;
